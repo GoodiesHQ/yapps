@@ -2,7 +2,8 @@
 YAPPS Scanner Implementation
 """
 
-from . import WorkPool, ArgTypes
+from .argtypes import ArgTypes
+from .workpool import WorkPool
 from enum import IntEnum, auto
 from typing import NamedTuple, Union
 import aiodns
