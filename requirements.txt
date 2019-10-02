@@ -1,0 +1,5 @@
+aiodns==2.0.0
+cffi==1.12.3
+janus==0.4.0
+pycares==3.0.0
+pycparser==2.19
